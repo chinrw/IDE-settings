@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>UserService.userLogin (com.worldpara.service)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("userLogin").withParameters("java.lang.String", "int").definedInClass("com.worldpara.service.UserService"))]]></place>
+    </injection>
+  </component>
+</application>

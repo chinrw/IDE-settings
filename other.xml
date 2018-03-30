@@ -1,0 +1,90 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Restricted_Python_calls</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/8.1.2/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.6.1" last-modified="1519413527000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.1.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.10.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.9.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.8.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.7.4/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.7.3/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.7.2/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.7.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.6.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.5.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.4.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.2.1/bin/node" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="generateColumnProperties" value="true" />
+    <option name="generateDefaultRelationships" value="true" />
+    <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/Github/PineAppleTeamWebSci/virtualEnv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/RPI/WebSci/Lab/Django/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/RPI/WebSci/Lab/tftpy-0.6.2/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Dropbox/RPI/WebSci/Lab/Django/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/RPI/WebSci/Lab/tftpy-0.6.2/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/Dropbox/RPI/WebSci/Lab/Django/bin/python" value="false" />
+        <entry key="$USER_HOME$/Dropbox/RPI/WebSci/Lab/tftpy-0.6.2/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
