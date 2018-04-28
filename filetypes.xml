@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="wt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
