@@ -1,5 +1,5 @@
 <application>
   <component name="kite">
-    <option name="editorMetricsEnabled" value="false" />
+    <option name="showWelcomeNotification" value="false" />
   </component>
 </application>
