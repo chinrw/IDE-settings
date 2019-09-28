@@ -7,6 +7,7 @@
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping ext="wt" type="PLAIN_TEXT" />
       <mapping ext="expected" type="PLAIN_TEXT" />
+      <mapping ext="lambda" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
